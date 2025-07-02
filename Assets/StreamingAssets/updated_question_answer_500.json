@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "Time Series Forecasting",
+    "answer": "Predicting weather or sales trends"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "Natural Language Processing",
+    "answer": "Chatbots or spam detection"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Clustering",
+    "answer": "Customer segmentation in marketing"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Learning via rewards and penalties"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "Group customers by behavior",
+    "answer": "Clustering"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Decision Tree",
+    "answer": "Splits data using feature-based questions"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "P(A|B) = P(B|A)P(A)/P(B)",
+    "answer": "Bayes’ Theorem"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Training Set",
+    "answer": "Used to teach the model"
+  },
+  {
+    "question": "y = mx + b",
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "ReLU",
+    "answer": "Common activation function for deep nets"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "RNN",
+    "answer": "Recurrent Neural Network"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "∑(xi - x̄)² / n",
+    "answer": "Variance"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Self-driving car navigation"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Q-Learning",
+    "answer": "Reinforcement Learning"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "Supervised Learning",
+    "answer": "Learning from labeled data"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Deep Learning",
+    "answer": "Subset of machine learning using neural nets"
+  },
+  {
+    "question": "Cross Validation",
+    "answer": "Technique to evaluate model performance"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Linear Regression",
+    "answer": "Predicts values with a best-fit line"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Test Set",
+    "answer": "Used to evaluate the model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Loss Function",
+    "answer": "Measures model error"
+  },
+  {
+    "question": "Bagging",
+    "answer": "Ensemble Method"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Softmax(xᵢ) = e^xᵢ / ∑e^x",
+    "answer": "Probability distribution for classification"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "Random Forest",
+    "answer": "Ensemble of decision trees"
+  },
+  {
+    "question": "E = -Σp(x)log(p(x))",
+    "answer": "Entropy in information theory"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Predict election outcomes",
+    "answer": "Classification"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Translate text",
+    "answer": "Neural Machine Translation"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Predict house prices",
+    "answer": "Regression"
+  },
+  {
+    "question": "Detect spam emails",
+    "answer": "Binary Classification"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "Time Series Forecasting",
+    "answer": "Predicting weather or sales trends"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "Natural Language Processing",
+    "answer": "Chatbots or spam detection"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Clustering",
+    "answer": "Customer segmentation in marketing"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Learning via rewards and penalties"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "Group customers by behavior",
+    "answer": "Clustering"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Decision Tree",
+    "answer": "Splits data using feature-based questions"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "P(A|B) = P(B|A)P(A)/P(B)",
+    "answer": "Bayes’ Theorem"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Training Set",
+    "answer": "Used to teach the model"
+  },
+  {
+    "question": "y = mx + b",
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "ReLU",
+    "answer": "Common activation function for deep nets"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "RNN",
+    "answer": "Recurrent Neural Network"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "∑(xi - x̄)² / n",
+    "answer": "Variance"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Self-driving car navigation"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Q-Learning",
+    "answer": "Reinforcement Learning"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "Supervised Learning",
+    "answer": "Learning from labeled data"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Deep Learning",
+    "answer": "Subset of machine learning using neural nets"
+  },
+  {
+    "question": "Cross Validation",
+    "answer": "Technique to evaluate model performance"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Linear Regression",
+    "answer": "Predicts values with a best-fit line"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Test Set",
+    "answer": "Used to evaluate the model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Loss Function",
+    "answer": "Measures model error"
+  },
+  {
+    "question": "Bagging",
+    "answer": "Ensemble Method"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Softmax(xᵢ) = e^xᵢ / ∑e^x",
+    "answer": "Probability distribution for classification"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "Random Forest",
+    "answer": "Ensemble of decision trees"
+  },
+  {
+    "question": "E = -Σp(x)log(p(x))",
+    "answer": "Entropy in information theory"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Predict election outcomes",
+    "answer": "Classification"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Translate text",
+    "answer": "Neural Machine Translation"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Predict house prices",
+    "answer": "Regression"
+  },
+  {
+    "question": "Detect spam emails",
+    "answer": "Binary Classification"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "Time Series Forecasting",
+    "answer": "Predicting weather or sales trends"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "Natural Language Processing",
+    "answer": "Chatbots or spam detection"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Clustering",
+    "answer": "Customer segmentation in marketing"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Learning via rewards and penalties"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "Group customers by behavior",
+    "answer": "Clustering"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Decision Tree",
+    "answer": "Splits data using feature-based questions"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "P(A|B) = P(B|A)P(A)/P(B)",
+    "answer": "Bayes’ Theorem"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Training Set",
+    "answer": "Used to teach the model"
+  },
+  {
+    "question": "y = mx + b",
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "ReLU",
+    "answer": "Common activation function for deep nets"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "RNN",
+    "answer": "Recurrent Neural Network"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "∑(xi - x̄)² / n",
+    "answer": "Variance"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Self-driving car navigation"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Q-Learning",
+    "answer": "Reinforcement Learning"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "Supervised Learning",
+    "answer": "Learning from labeled data"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Deep Learning",
+    "answer": "Subset of machine learning using neural nets"
+  },
+  {
+    "question": "Cross Validation",
+    "answer": "Technique to evaluate model performance"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Linear Regression",
+    "answer": "Predicts values with a best-fit line"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Test Set",
+    "answer": "Used to evaluate the model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Loss Function",
+    "answer": "Measures model error"
+  },
+  {
+    "question": "Bagging",
+    "answer": "Ensemble Method"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Softmax(xᵢ) = e^xᵢ / ∑e^x",
+    "answer": "Probability distribution for classification"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "Random Forest",
+    "answer": "Ensemble of decision trees"
+  },
+  {
+    "question": "E = -Σp(x)log(p(x))",
+    "answer": "Entropy in information theory"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Predict election outcomes",
+    "answer": "Classification"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Translate text",
+    "answer": "Neural Machine Translation"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Predict house prices",
+    "answer": "Regression"
+  },
+  {
+    "question": "Detect spam emails",
+    "answer": "Binary Classification"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "Time Series Forecasting",
+    "answer": "Predicting weather or sales trends"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "Natural Language Processing",
+    "answer": "Chatbots or spam detection"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Clustering",
+    "answer": "Customer segmentation in marketing"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Learning via rewards and penalties"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "Group customers by behavior",
+    "answer": "Clustering"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Decision Tree",
+    "answer": "Splits data using feature-based questions"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "P(A|B) = P(B|A)P(A)/P(B)",
+    "answer": "Bayes’ Theorem"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Training Set",
+    "answer": "Used to teach the model"
+  },
+  {
+    "question": "y = mx + b",
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "ReLU",
+    "answer": "Common activation function for deep nets"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "RNN",
+    "answer": "Recurrent Neural Network"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "∑(xi - x̄)² / n",
+    "answer": "Variance"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Self-driving car navigation"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Q-Learning",
+    "answer": "Reinforcement Learning"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "Supervised Learning",
+    "answer": "Learning from labeled data"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Deep Learning",
+    "answer": "Subset of machine learning using neural nets"
+  },
+  {
+    "question": "Cross Validation",
+    "answer": "Technique to evaluate model performance"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Linear Regression",
+    "answer": "Predicts values with a best-fit line"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Test Set",
+    "answer": "Used to evaluate the model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Loss Function",
+    "answer": "Measures model error"
+  },
+  {
+    "question": "Bagging",
+    "answer": "Ensemble Method"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Softmax(xᵢ) = e^xᵢ / ∑e^x",
+    "answer": "Probability distribution for classification"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "Random Forest",
+    "answer": "Ensemble of decision trees"
+  },
+  {
+    "question": "E = -Σp(x)log(p(x))",
+    "answer": "Entropy in information theory"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Predict election outcomes",
+    "answer": "Classification"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Translate text",
+    "answer": "Neural Machine Translation"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Predict house prices",
+    "answer": "Regression"
+  },
+  {
+    "question": "Detect spam emails",
+    "answer": "Binary Classification"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "Time Series Forecasting",
+    "answer": "Predicting weather or sales trends"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Sigmoid",
+    "answer": "Activation function outputting values between 0 and 1"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "Natural Language Processing",
+    "answer": "Chatbots or spam detection"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Clustering",
+    "answer": "Customer segmentation in marketing"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "Anomaly Detection",
+    "answer": "Fraud detection in transactions"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Learning via rewards and penalties"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "GAN",
+    "answer": "Generative Model"
+  },
+  {
+    "question": "Group customers by behavior",
+    "answer": "Clustering"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Decision Tree",
+    "answer": "Splits data using feature-based questions"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "P(A|B) = P(B|A)P(A)/P(B)",
+    "answer": "Bayes’ Theorem"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Training Set",
+    "answer": "Used to teach the model"
+  },
+  {
+    "question": "y = mx + b",
+    "answer": "Linear Regression"
+  },
+  {
+    "question": "ReLU",
+    "answer": "Common activation function for deep nets"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "PCA",
+    "answer": "Dimensionality Reduction"
+  },
+  {
+    "question": "log(p/(1-p))",
+    "answer": "Logistic Regression formula"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Generate realistic images",
+    "answer": "GAN"
+  },
+  {
+    "question": "RNN",
+    "answer": "Recurrent Neural Network"
+  },
+  {
+    "question": "CNN",
+    "answer": "Deep Learning Model"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "∑(xi - x̄)² / n",
+    "answer": "Variance"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "Classify sentiment from tweets",
+    "answer": "Text Classification"
+  },
+  {
+    "question": "Unsupervised Learning",
+    "answer": "Finding hidden patterns in data without labels"
+  },
+  {
+    "question": "Reinforcement Learning",
+    "answer": "Self-driving car navigation"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Learning Rate",
+    "answer": "Controls step size in training"
+  },
+  {
+    "question": "K-Means Clustering",
+    "answer": "Groups data by minimizing intra-cluster distance"
+  },
+  {
+    "question": "Q(s,a) = R + γ max Q(s’,a’)",
+    "answer": "Q-Learning update rule"
+  },
+  {
+    "question": "Q-Learning",
+    "answer": "Reinforcement Learning"
+  },
+  {
+    "question": "Overfitting",
+    "answer": "Model performs well on training, poorly on test"
+  },
+  {
+    "question": "Computer Vision",
+    "answer": "Face recognition in phones"
+  },
+  {
+    "question": "Supervised Learning",
+    "answer": "Learning from labeled data"
+  },
+  {
+    "question": "AdaBoost",
+    "answer": "Boosting Algorithm"
+  },
+  {
+    "question": "Feature Engineering",
+    "answer": "Creating input variables from raw data"
+  },
+  {
+    "question": "Deep Learning",
+    "answer": "Subset of machine learning using neural nets"
+  },
+  {
+    "question": "Cross Validation",
+    "answer": "Technique to evaluate model performance"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  },
+  {
+    "question": "Autoencoder",
+    "answer": "Unsupervised Neural Network"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Linear Regression",
+    "answer": "Predicts values with a best-fit line"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Model Generalization",
+    "answer": "Ability to perform well on unseen data"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Test Set",
+    "answer": "Used to evaluate the model"
+  },
+  {
+    "question": "PCA",
+    "answer": "Reduces dimensionality while preserving variance"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Loss Function",
+    "answer": "Measures model error"
+  },
+  {
+    "question": "Bagging",
+    "answer": "Ensemble Method"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Softmax(xᵢ) = e^xᵢ / ∑e^x",
+    "answer": "Probability distribution for classification"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Activation Function",
+    "answer": "Adds non-linearity to models"
+  },
+  {
+    "question": "L = y log(p) + (1-y) log(1-p)",
+    "answer": "Binary cross-entropy loss"
+  },
+  {
+    "question": "Variance",
+    "answer": "Error due to model sensitivity to fluctuations in the training set"
+  },
+  {
+    "question": "Support Vector Machine",
+    "answer": "Finds optimal separating hyperplane"
+  },
+  {
+    "question": "Detect credit card fraud",
+    "answer": "Anomaly Detection"
+  },
+  {
+    "question": "Random Forest",
+    "answer": "Ensemble of decision trees"
+  },
+  {
+    "question": "E = -Σp(x)log(p(x))",
+    "answer": "Entropy in information theory"
+  },
+  {
+    "question": "Identify handwritten digits",
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "question": "Predict election outcomes",
+    "answer": "Classification"
+  },
+  {
+    "question": "Epoch",
+    "answer": "One full pass over training data"
+  },
+  {
+    "question": "Σwixi + b",
+    "answer": "Linear function in ML"
+  },
+  {
+    "question": "Voice Recognition",
+    "answer": "Virtual assistant understanding speech"
+  },
+  {
+    "question": "Backpropagation",
+    "answer": "Adjusts weights in neural networks"
+  },
+  {
+    "question": "Underfitting",
+    "answer": "Model is too simple to capture the pattern"
+  },
+  {
+    "question": "Recommendation System",
+    "answer": "Movie suggestions on streaming platforms"
+  },
+  {
+    "question": "Translate text",
+    "answer": "Neural Machine Translation"
+  },
+  {
+    "question": "K-Nearest Neighbors",
+    "answer": "Classifies based on closest training examples"
+  },
+  {
+    "question": "KNN",
+    "answer": "Supervised Learning"
+  },
+  {
+    "question": "Logistic Regression",
+    "answer": "Predicts binary outcomes"
+  },
+  {
+    "question": "Predict house prices",
+    "answer": "Regression"
+  },
+  {
+    "question": "Detect spam emails",
+    "answer": "Binary Classification"
+  },
+  {
+    "question": "Regression",
+    "answer": "Predicting stock prices"
+  }
+]
