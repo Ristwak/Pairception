@@ -1,127 +1,135 @@
 [
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "Time Series Forecasting",
-    "answer": "Predicting weather or sales trends"
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
-    "question": "Variance",
+    "question": "le; L=hys fl)kUrk",
+    "answer": "ok;q ifjorZu ;k fodz; dh izfrfØ;k dk vuqeku"
+  },
+  {
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
+  },
+  {
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
-    "question": "Natural Language Processing",
-    "answer": "Chatbots or spam detection"
-  },
-  {
-    "question": "Σ(x - μ)² / N",
-    "answer": "Population variance"
-  },
-  {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
-  },
-  {
-    "question": "Clustering",
-    "answer": "Customer segmentation in marketing"
-  },
-  {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "izkd`frd Hkk\"kk çlaLdj.k",
+    "answer": "pkVckWLV ;k LSihe tk¡p"
   },
   {
     "question": "Σ(x - μ)² / N",
     "answer": "Population variance"
   },
   {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
   },
   {
-    "question": "Reinforcement Learning",
-    "answer": "Learning via rewards and penalties"
+    "question": "dEiuh ,dhdj.k",
+    "answer": "izcU/k esa xzkgd oxhZdj.k"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
+  },
+  {
+    "question": "vfUre v/;kiu",
+    "answer": "lfEefyr rFkk n.Mksa ds ek/;e ls v/;kiu"
+  },
+  {
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
+  },
+  {
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
     "question": "Group customers by behavior",
-    "answer": "Clustering"
+    "answer": "dEiuh ,dhdj.k"
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
-    "question": "Decision Tree",
-    "answer": "Splits data using feature-based questions"
+    "question": "fu.kZ; o`{k",
+    "answer": "fo'ks\"krk vk/kkfjr iz'uksa ls vkadM+ksa dks ckaVrk gS"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
-    "question": "P(A|B) = P(B|A)P(A)/P(B)",
-    "answer": "Bayes’ Theorem"
+    "question": "I(,@ch) = I(ch,@,)I(,)/I(ch)",
+    "answer": "csl dk fl)kUr"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
-    "question": "Training Set",
-    "answer": "Used to teach the model"
+    "question": "v/;kiu lwph",
+    "answer": "e‚My dks f'kkyus ds fy, ç;ksx"
   },
   {
-    "question": "y = mx + b",
-    "answer": "Linear Regression"
+    "question": "y = ,e%‚D + ch",
+    "answer": "jsfM‚u fjxzs'ku"
   },
   {
     "question": "ReLU",
@@ -129,7 +137,7 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "Feature Engineering",
@@ -140,12 +148,12 @@
     "answer": "Linear function in ML"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
     "question": "Autoencoder",
@@ -153,15 +161,15 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "RNN",
     "answer": "Recurrent Neural Network"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
     "question": "Model Generalization",
@@ -177,7 +185,7 @@
   },
   {
     "question": "∑(xi - x̄)² / n",
-    "answer": "Variance"
+    "answer": "ifjorZu"
   },
   {
     "question": "K-Nearest Neighbors",
@@ -188,11 +196,11 @@
     "answer": "Text Classification"
   },
   {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "Reinforcement Learning",
+    "question": "vfUre v/;kiu",
     "answer": "Self-driving car navigation"
   },
   {
@@ -200,36 +208,36 @@
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
     "question": "K-Means Clustering",
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
     "question": "Q-Learning",
-    "answer": "Reinforcement Learning"
+    "answer": "vfUre v/;kiu"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "Supervised Learning",
+    "question": "fu;fer v/;kiu",
     "answer": "Learning from labeled data"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
     "question": "Feature Engineering",
@@ -256,7 +264,7 @@
     "answer": "Finds optimal separating hyperplane"
   },
   {
-    "question": "Linear Regression",
+    "question": "jsfM‚u fjxzs'ku",
     "answer": "Predicts values with a best-fit line"
   },
   {
@@ -276,8 +284,8 @@
     "answer": "Used to evaluate the model"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
     "question": "L = y log(p) + (1-y) log(1-p)",
@@ -312,7 +320,7 @@
     "answer": "Binary cross-entropy loss"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
@@ -321,7 +329,7 @@
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
     "question": "Random Forest",
@@ -352,16 +360,16 @@
     "answer": "Virtual assistant understanding speech"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
     "question": "Underfitting",
     "answer": "Model is too simple to capture the pattern"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
     "question": "Translate text",
@@ -372,12 +380,12 @@
     "answer": "Classifies based on closest training examples"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
     "question": "Predict house prices",
@@ -392,136 +400,136 @@
     "answer": "Predicting stock prices"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
-    "question": "Time Series Forecasting",
-    "answer": "Predicting weather or sales trends"
+    "question": "le; L=hys fl)kUrk",
+    "answer": "ok;q ifjorZu ;k fodz; dh izfrfØ;k dk vuqeku"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
-    "question": "Natural Language Processing",
-    "answer": "Chatbots or spam detection"
-  },
-  {
-    "question": "Σ(x - μ)² / N",
-    "answer": "Population variance"
-  },
-  {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
-  },
-  {
-    "question": "Clustering",
-    "answer": "Customer segmentation in marketing"
-  },
-  {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "izkd`frd Hkk\"kk çlaLdj.k",
+    "answer": "pkVckWLV ;k LSihe tk¡p"
   },
   {
     "question": "Σ(x - μ)² / N",
     "answer": "Population variance"
   },
   {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
   },
   {
-    "question": "Reinforcement Learning",
-    "answer": "Learning via rewards and penalties"
+    "question": "dEiuh ,dhdj.k",
+    "answer": "izcU/k esa xzkgd oxhZdj.k"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
+  },
+  {
+    "question": "vfUre v/;kiu",
+    "answer": "lfEefyr rFkk n.Mksa ds ek/;e ls v/;kiu"
+  },
+  {
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
+  },
+  {
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
     "question": "Group customers by behavior",
-    "answer": "Clustering"
+    "answer": "dEiuh ,dhdj.k"
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
-    "question": "Decision Tree",
-    "answer": "Splits data using feature-based questions"
+    "question": "fu.kZ; o`{k",
+    "answer": "fo'ks\"krk vk/kkfjr iz'uksa ls vkadM+ksa dks ckaVrk gS"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
-    "question": "P(A|B) = P(B|A)P(A)/P(B)",
-    "answer": "Bayes’ Theorem"
+    "question": "I(,@ch) = I(ch,@,)I(,)/I(ch)",
+    "answer": "csl dk fl)kUr"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
-    "question": "Training Set",
-    "answer": "Used to teach the model"
+    "question": "v/;kiu lwph",
+    "answer": "e‚My dks f'kkyus ds fy, ç;ksx"
   },
   {
-    "question": "y = mx + b",
-    "answer": "Linear Regression"
+    "question": "y = ,e%‚D + ch",
+    "answer": "jsfM‚u fjxzs'ku"
   },
   {
     "question": "ReLU",
@@ -529,7 +537,7 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "Feature Engineering",
@@ -540,12 +548,12 @@
     "answer": "Linear function in ML"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
     "question": "Autoencoder",
@@ -553,15 +561,15 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "RNN",
     "answer": "Recurrent Neural Network"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
     "question": "Model Generalization",
@@ -577,7 +585,7 @@
   },
   {
     "question": "∑(xi - x̄)² / n",
-    "answer": "Variance"
+    "answer": "ifjorZu"
   },
   {
     "question": "K-Nearest Neighbors",
@@ -588,11 +596,11 @@
     "answer": "Text Classification"
   },
   {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "Reinforcement Learning",
+    "question": "vfUre v/;kiu",
     "answer": "Self-driving car navigation"
   },
   {
@@ -600,36 +608,36 @@
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
     "question": "K-Means Clustering",
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
     "question": "Q-Learning",
-    "answer": "Reinforcement Learning"
+    "answer": "vfUre v/;kiu"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "Supervised Learning",
+    "question": "fu;fer v/;kiu",
     "answer": "Learning from labeled data"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
     "question": "Feature Engineering",
@@ -656,7 +664,7 @@
     "answer": "Finds optimal separating hyperplane"
   },
   {
-    "question": "Linear Regression",
+    "question": "jsfM‚u fjxzs'ku",
     "answer": "Predicts values with a best-fit line"
   },
   {
@@ -676,8 +684,8 @@
     "answer": "Used to evaluate the model"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
     "question": "L = y log(p) + (1-y) log(1-p)",
@@ -712,7 +720,7 @@
     "answer": "Binary cross-entropy loss"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
@@ -721,7 +729,7 @@
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
     "question": "Random Forest",
@@ -752,16 +760,16 @@
     "answer": "Virtual assistant understanding speech"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
     "question": "Underfitting",
     "answer": "Model is too simple to capture the pattern"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
     "question": "Translate text",
@@ -772,12 +780,12 @@
     "answer": "Classifies based on closest training examples"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
     "question": "Predict house prices",
@@ -792,136 +800,136 @@
     "answer": "Predicting stock prices"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
-    "question": "Time Series Forecasting",
-    "answer": "Predicting weather or sales trends"
+    "question": "le; L=hys fl)kUrk",
+    "answer": "ok;q ifjorZu ;k fodz; dh izfrfØ;k dk vuqeku"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
-    "question": "Natural Language Processing",
-    "answer": "Chatbots or spam detection"
-  },
-  {
-    "question": "Σ(x - μ)² / N",
-    "answer": "Population variance"
-  },
-  {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
-  },
-  {
-    "question": "Clustering",
-    "answer": "Customer segmentation in marketing"
-  },
-  {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "izkd`frd Hkk\"kk çlaLdj.k",
+    "answer": "pkVckWLV ;k LSihe tk¡p"
   },
   {
     "question": "Σ(x - μ)² / N",
     "answer": "Population variance"
   },
   {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
   },
   {
-    "question": "Reinforcement Learning",
-    "answer": "Learning via rewards and penalties"
+    "question": "dEiuh ,dhdj.k",
+    "answer": "izcU/k esa xzkgd oxhZdj.k"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
+  },
+  {
+    "question": "vfUre v/;kiu",
+    "answer": "lfEefyr rFkk n.Mksa ds ek/;e ls v/;kiu"
+  },
+  {
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
+  },
+  {
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
     "question": "Group customers by behavior",
-    "answer": "Clustering"
+    "answer": "dEiuh ,dhdj.k"
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
-    "question": "Decision Tree",
-    "answer": "Splits data using feature-based questions"
+    "question": "fu.kZ; o`{k",
+    "answer": "fo'ks\"krk vk/kkfjr iz'uksa ls vkadM+ksa dks ckaVrk gS"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
-    "question": "P(A|B) = P(B|A)P(A)/P(B)",
-    "answer": "Bayes’ Theorem"
+    "question": "I(,@ch) = I(ch,@,)I(,)/I(ch)",
+    "answer": "csl dk fl)kUr"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
-    "question": "Training Set",
-    "answer": "Used to teach the model"
+    "question": "v/;kiu lwph",
+    "answer": "e‚My dks f'kkyus ds fy, ç;ksx"
   },
   {
-    "question": "y = mx + b",
-    "answer": "Linear Regression"
+    "question": "y = ,e%‚D + ch",
+    "answer": "jsfM‚u fjxzs'ku"
   },
   {
     "question": "ReLU",
@@ -929,7 +937,7 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "Feature Engineering",
@@ -940,12 +948,12 @@
     "answer": "Linear function in ML"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
     "question": "Autoencoder",
@@ -953,15 +961,15 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "RNN",
     "answer": "Recurrent Neural Network"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
     "question": "Model Generalization",
@@ -977,7 +985,7 @@
   },
   {
     "question": "∑(xi - x̄)² / n",
-    "answer": "Variance"
+    "answer": "ifjorZu"
   },
   {
     "question": "K-Nearest Neighbors",
@@ -988,11 +996,11 @@
     "answer": "Text Classification"
   },
   {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "Reinforcement Learning",
+    "question": "vfUre v/;kiu",
     "answer": "Self-driving car navigation"
   },
   {
@@ -1000,36 +1008,36 @@
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
     "question": "K-Means Clustering",
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
     "question": "Q-Learning",
-    "answer": "Reinforcement Learning"
+    "answer": "vfUre v/;kiu"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "Supervised Learning",
+    "question": "fu;fer v/;kiu",
     "answer": "Learning from labeled data"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
     "question": "Feature Engineering",
@@ -1056,7 +1064,7 @@
     "answer": "Finds optimal separating hyperplane"
   },
   {
-    "question": "Linear Regression",
+    "question": "jsfM‚u fjxzs'ku",
     "answer": "Predicts values with a best-fit line"
   },
   {
@@ -1076,8 +1084,8 @@
     "answer": "Used to evaluate the model"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
     "question": "L = y log(p) + (1-y) log(1-p)",
@@ -1112,7 +1120,7 @@
     "answer": "Binary cross-entropy loss"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
@@ -1121,7 +1129,7 @@
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
     "question": "Random Forest",
@@ -1152,16 +1160,16 @@
     "answer": "Virtual assistant understanding speech"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
     "question": "Underfitting",
     "answer": "Model is too simple to capture the pattern"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
     "question": "Translate text",
@@ -1172,12 +1180,12 @@
     "answer": "Classifies based on closest training examples"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
     "question": "Predict house prices",
@@ -1192,136 +1200,136 @@
     "answer": "Predicting stock prices"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
-    "question": "Time Series Forecasting",
-    "answer": "Predicting weather or sales trends"
+    "question": "le; L=hys fl)kUrk",
+    "answer": "ok;q ifjorZu ;k fodz; dh izfrfØ;k dk vuqeku"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
-    "question": "Natural Language Processing",
-    "answer": "Chatbots or spam detection"
-  },
-  {
-    "question": "Σ(x - μ)² / N",
-    "answer": "Population variance"
-  },
-  {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
-  },
-  {
-    "question": "Clustering",
-    "answer": "Customer segmentation in marketing"
-  },
-  {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "izkd`frd Hkk\"kk çlaLdj.k",
+    "answer": "pkVckWLV ;k LSihe tk¡p"
   },
   {
     "question": "Σ(x - μ)² / N",
     "answer": "Population variance"
   },
   {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
   },
   {
-    "question": "Reinforcement Learning",
-    "answer": "Learning via rewards and penalties"
+    "question": "dEiuh ,dhdj.k",
+    "answer": "izcU/k esa xzkgd oxhZdj.k"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
+  },
+  {
+    "question": "vfUre v/;kiu",
+    "answer": "lfEefyr rFkk n.Mksa ds ek/;e ls v/;kiu"
+  },
+  {
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
+  },
+  {
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
     "question": "Group customers by behavior",
-    "answer": "Clustering"
+    "answer": "dEiuh ,dhdj.k"
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
-    "question": "Decision Tree",
-    "answer": "Splits data using feature-based questions"
+    "question": "fu.kZ; o`{k",
+    "answer": "fo'ks\"krk vk/kkfjr iz'uksa ls vkadM+ksa dks ckaVrk gS"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
-    "question": "P(A|B) = P(B|A)P(A)/P(B)",
-    "answer": "Bayes’ Theorem"
+    "question": "I(,@ch) = I(ch,@,)I(,)/I(ch)",
+    "answer": "csl dk fl)kUr"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
-    "question": "Training Set",
-    "answer": "Used to teach the model"
+    "question": "v/;kiu lwph",
+    "answer": "e‚My dks f'kkyus ds fy, ç;ksx"
   },
   {
-    "question": "y = mx + b",
-    "answer": "Linear Regression"
+    "question": "y = ,e%‚D + ch",
+    "answer": "jsfM‚u fjxzs'ku"
   },
   {
     "question": "ReLU",
@@ -1329,7 +1337,7 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "Feature Engineering",
@@ -1340,12 +1348,12 @@
     "answer": "Linear function in ML"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
     "question": "Autoencoder",
@@ -1353,15 +1361,15 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "RNN",
     "answer": "Recurrent Neural Network"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
     "question": "Model Generalization",
@@ -1377,7 +1385,7 @@
   },
   {
     "question": "∑(xi - x̄)² / n",
-    "answer": "Variance"
+    "answer": "ifjorZu"
   },
   {
     "question": "K-Nearest Neighbors",
@@ -1388,11 +1396,11 @@
     "answer": "Text Classification"
   },
   {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "Reinforcement Learning",
+    "question": "vfUre v/;kiu",
     "answer": "Self-driving car navigation"
   },
   {
@@ -1400,36 +1408,36 @@
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
     "question": "K-Means Clustering",
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
     "question": "Q-Learning",
-    "answer": "Reinforcement Learning"
+    "answer": "vfUre v/;kiu"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "Supervised Learning",
+    "question": "fu;fer v/;kiu",
     "answer": "Learning from labeled data"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
     "question": "Feature Engineering",
@@ -1456,7 +1464,7 @@
     "answer": "Finds optimal separating hyperplane"
   },
   {
-    "question": "Linear Regression",
+    "question": "jsfM‚u fjxzs'ku",
     "answer": "Predicts values with a best-fit line"
   },
   {
@@ -1476,8 +1484,8 @@
     "answer": "Used to evaluate the model"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
     "question": "L = y log(p) + (1-y) log(1-p)",
@@ -1512,7 +1520,7 @@
     "answer": "Binary cross-entropy loss"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
@@ -1521,7 +1529,7 @@
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
     "question": "Random Forest",
@@ -1552,16 +1560,16 @@
     "answer": "Virtual assistant understanding speech"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
     "question": "Underfitting",
     "answer": "Model is too simple to capture the pattern"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
     "question": "Translate text",
@@ -1572,12 +1580,12 @@
     "answer": "Classifies based on closest training examples"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
     "question": "Predict house prices",
@@ -1592,136 +1600,136 @@
     "answer": "Predicting stock prices"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
-    "question": "Time Series Forecasting",
-    "answer": "Predicting weather or sales trends"
+    "question": "le; L=hys fl)kUrk",
+    "answer": "ok;q ifjorZu ;k fodz; dh izfrfØ;k dk vuqeku"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
-    "question": "Sigmoid",
-    "answer": "Activation function outputting values between 0 and 1"
+    "question": "flxekbM",
+    "answer": "tks 0 vkSj 1 ds chp esa eku fudykrk gS"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
-    "question": "Natural Language Processing",
-    "answer": "Chatbots or spam detection"
-  },
-  {
-    "question": "Σ(x - μ)² / N",
-    "answer": "Population variance"
-  },
-  {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
-  },
-  {
-    "question": "Clustering",
-    "answer": "Customer segmentation in marketing"
-  },
-  {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "izkd`frd Hkk\"kk çlaLdj.k",
+    "answer": "pkVckWLV ;k LSihe tk¡p"
   },
   {
     "question": "Σ(x - μ)² / N",
     "answer": "Population variance"
   },
   {
-    "question": "Anomaly Detection",
-    "answer": "Fraud detection in transactions"
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
   },
   {
-    "question": "Reinforcement Learning",
-    "answer": "Learning via rewards and penalties"
+    "question": "dEiuh ,dhdj.k",
+    "answer": "izcU/k esa xzkgd oxhZdj.k"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "GAN",
-    "answer": "Generative Model"
+    "question": "Σ(x - μ)² / N",
+    "answer": "Population variance"
+  },
+  {
+    "question": "vfu;ferrk igpku",
+    "answer": "O;kikj esa nkf;Ro dh igpku"
+  },
+  {
+    "question": "vfUre v/;kiu",
+    "answer": "lfEefyr rFkk n.Mksa ds ek/;e ls v/;kiu"
+  },
+  {
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
+  },
+  {
+    "question": "th‚,u",
+    "answer": "tUrjhd e‚My"
   },
   {
     "question": "Group customers by behavior",
-    "answer": "Clustering"
+    "answer": "dEiuh ,dhdj.k"
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
-    "question": "Decision Tree",
-    "answer": "Splits data using feature-based questions"
+    "question": "fu.kZ; o`{k",
+    "answer": "fo'ks\"krk vk/kkfjr iz'uksa ls vkadM+ksa dks ckaVrk gS"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
-    "question": "P(A|B) = P(B|A)P(A)/P(B)",
-    "answer": "Bayes’ Theorem"
+    "question": "I(,@ch) = I(ch,@,)I(,)/I(ch)",
+    "answer": "csl dk fl)kUr"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
-    "question": "Training Set",
-    "answer": "Used to teach the model"
+    "question": "v/;kiu lwph",
+    "answer": "e‚My dks f'kkyus ds fy, ç;ksx"
   },
   {
-    "question": "y = mx + b",
-    "answer": "Linear Regression"
+    "question": "y = ,e%‚D + ch",
+    "answer": "jsfM‚u fjxzs'ku"
   },
   {
     "question": "ReLU",
@@ -1729,7 +1737,7 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "Feature Engineering",
@@ -1740,12 +1748,12 @@
     "answer": "Linear function in ML"
   },
   {
-    "question": "PCA",
-    "answer": "Dimensionality Reduction"
+    "question": "ihlhvkbZ",
+    "answer": "vk;krdRØh; ?kVuk"
   },
   {
-    "question": "log(p/(1-p))",
-    "answer": "Logistic Regression formula"
+    "question": "yksx(ikä¼1-ikä½)",
+    "answer": "y‚ftfLVd fjxzs'ku vkSn"
   },
   {
     "question": "Autoencoder",
@@ -1753,15 +1761,15 @@
   },
   {
     "question": "Generate realistic images",
-    "answer": "GAN"
+    "answer": "th‚,u"
   },
   {
     "question": "RNN",
     "answer": "Recurrent Neural Network"
   },
   {
-    "question": "CNN",
-    "answer": "Deep Learning Model"
+    "question": "lh‚u‚u",
+    "answer": "fdV~Vh v/;kiu e‚My"
   },
   {
     "question": "Model Generalization",
@@ -1777,7 +1785,7 @@
   },
   {
     "question": "∑(xi - x̄)² / n",
-    "answer": "Variance"
+    "answer": "ifjorZu"
   },
   {
     "question": "K-Nearest Neighbors",
@@ -1788,11 +1796,11 @@
     "answer": "Text Classification"
   },
   {
-    "question": "Unsupervised Learning",
-    "answer": "Finding hidden patterns in data without labels"
+    "question": "vfu;ferrk ls v/;kiu",
+    "answer": "yVh u gq, vk¡dMksa esa xhfy gq, Øe igpkuuk"
   },
   {
-    "question": "Reinforcement Learning",
+    "question": "vfUre v/;kiu",
     "answer": "Self-driving car navigation"
   },
   {
@@ -1800,36 +1808,36 @@
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Learning Rate",
-    "answer": "Controls step size in training"
+    "question": "v/;kiu nj",
+    "answer": "v/;kiu esa dneksa dh vkdkj dks fu;af=r djrk gS"
   },
   {
     "question": "K-Means Clustering",
     "answer": "Groups data by minimizing intra-cluster distance"
   },
   {
-    "question": "Q(s,a) = R + γ max Q(s’,a’)",
-    "answer": "Q-Learning update rule"
+    "question": "D(‚lvks]‚, vks) = j + ^ekd D(‚lvks]‚, vks)",
+    "answer": "D&v/;kiu iqu% ifjorZu fu;e"
   },
   {
     "question": "Q-Learning",
-    "answer": "Reinforcement Learning"
+    "answer": "vfUre v/;kiu"
   },
   {
-    "question": "Overfitting",
-    "answer": "Model performs well on training, poorly on test"
+    "question": "vR;fèkd vuqdwyu",
+    "answer": "e‚My çf'k{k.k ij vPNk çn'kZu djrk gS] ijh{k.k ij [kjkcA"
   },
   {
-    "question": "Computer Vision",
-    "answer": "Face recognition in phones"
+    "question": "dEI;wVj fpfdr.k",
+    "answer": "Qksu esa eq>q&Hkkx igpku"
   },
   {
-    "question": "Supervised Learning",
+    "question": "fu;fer v/;kiu",
     "answer": "Learning from labeled data"
   },
   {
-    "question": "AdaBoost",
-    "answer": "Boosting Algorithm"
+    "question": ",Mkc~lwj",
+    "answer": "lqèkkjhd vfHk;kaf=dh"
   },
   {
     "question": "Feature Engineering",
@@ -1856,7 +1864,7 @@
     "answer": "Finds optimal separating hyperplane"
   },
   {
-    "question": "Linear Regression",
+    "question": "jsfM‚u fjxzs'ku",
     "answer": "Predicts values with a best-fit line"
   },
   {
@@ -1876,8 +1884,8 @@
     "answer": "Used to evaluate the model"
   },
   {
-    "question": "PCA",
-    "answer": "Reduces dimensionality while preserving variance"
+    "question": "ihlhvkbZ",
+    "answer": "ifjorZu dks j[krs gq, vk;krdRØh dks ?kVkrk gS"
   },
   {
     "question": "L = y log(p) + (1-y) log(1-p)",
@@ -1912,7 +1920,7 @@
     "answer": "Binary cross-entropy loss"
   },
   {
-    "question": "Variance",
+    "question": "ifjorZu",
     "answer": "Error due to model sensitivity to fluctuations in the training set"
   },
   {
@@ -1921,7 +1929,7 @@
   },
   {
     "question": "Detect credit card fraud",
-    "answer": "Anomaly Detection"
+    "answer": "vfu;ferrk igpku"
   },
   {
     "question": "Random Forest",
@@ -1952,16 +1960,16 @@
     "answer": "Virtual assistant understanding speech"
   },
   {
-    "question": "Backpropagation",
-    "answer": "Adjusts weights in neural networks"
+    "question": "czã ifjorZu",
+    "answer": "u;wjYl usVdZl esa okbZVksa dks lEcfU/kr djrk gS"
   },
   {
     "question": "Underfitting",
     "answer": "Model is too simple to capture the pattern"
   },
   {
-    "question": "Recommendation System",
-    "answer": "Movie suggestions on streaming platforms"
+    "question": "lykg uhfr",
+    "answer": "LVªheax IysVZQke ij fpfdr fMxzh lykg"
   },
   {
     "question": "Translate text",
@@ -1972,12 +1980,12 @@
     "answer": "Classifies based on closest training examples"
   },
   {
-    "question": "KNN",
-    "answer": "Supervised Learning"
+    "question": "ds‚u‚u",
+    "answer": "fu;fer v/;kiu"
   },
   {
-    "question": "Logistic Regression",
-    "answer": "Predicts binary outcomes"
+    "question": "y‚ftfLVd fjxzs'ku",
+    "answer": "f}vkèkkjh ifj.kkeksa dh Hkfo\";ok.kh djrk gS"
   },
   {
     "question": "Predict house prices",
