@@ -13,10 +13,12 @@ using UnityEngine.UI;
 [Serializable]
 public class QAPair { public string question; public string answer; }
 
-public class QAMatchGameManager : MonoBehaviour {
+public class QAMatchGameManager : MonoBehaviour
+{
     public static QAMatchGameManager Instance { get; private set; }
 
-    [Header("JSON Settings")] [SerializeField]
+    [Header("JSON Settings")]
+    [SerializeField]
     private string jsonFileName = "updated_question_answer_500.json";
 
     [Header("UI References")]
@@ -31,14 +33,16 @@ public class QAMatchGameManager : MonoBehaviour {
     private List<QAPair> _allPairs;
     private Dictionary<string, string> _currentPairs;
 
-    private void Awake() {
+    private void Awake()
+    {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
-        nextRoundButton?.onClick.AddListener(SetupNextRound);
+        nextRoundButton.onClick.AddListener(EvaluateRound);
     }
 
     private void Start() { StartCoroutine(LoadQuestions()); }
-    private IEnumerator LoadQuestions() {
+    private IEnumerator LoadQuestions()
+    {
         string path = Path.Combine(Application.streamingAssetsPath, jsonFileName);
         string json = string.Empty;
 #if UNITY_ANDROID && !UNITY_EDITOR
@@ -58,8 +62,10 @@ public class QAMatchGameManager : MonoBehaviour {
         SetupNextRound();
     }
 
-    public void SetupNextRound() {
-        foreach (var qb in FindObjectsOfType<QuestionBox>()) {
+    public void SetupNextRound()
+    {
+        foreach (var qb in FindObjectsOfType<QuestionBox>())
+        {
             qb.answered = false;
             if (qb.currentLineRect != null) Destroy(qb.currentLineRect.gameObject);
             qb.currentLineRect = null;
@@ -70,20 +76,42 @@ public class QAMatchGameManager : MonoBehaviour {
                               .ToList();
         _currentPairs = chosen.ToDictionary(p => p.question, p => p.answer);
 
-        for (int i = 0; i < questionLabels.Length; i++) {
+        for (int i = 0; i < questionLabels.Length; i++)
+        {
             questionLabels[i].text = chosen[i].question;
             questionBoxes[i].GetComponent<QuestionBox>().questionText = chosen[i].question;
         }
         var shuffled = chosen.Select(p => p.answer)
                              .OrderBy(_ => UnityEngine.Random.value)
                              .ToList();
-        for (int i = 0; i < answerLabels.Length; i++) {
+        for (int i = 0; i < answerLabels.Length; i++)
+        {
             answerLabels[i].text = shuffled[i];
             answerBoxes[i].GetComponent<AnswerBox>().answerText = shuffled[i];
         }
     }
 
-    public bool EvaluateMatch(string q, string a) {
-        return _currentPairs.TryGetValue(q, out var c) && c == a;
+    public void EvaluateRound()
+    {
+        StartCoroutine(EvaluateAndWaitCoroutine());
+    }
+
+    private IEnumerator EvaluateAndWaitCoroutine()
+    {
+        nextRoundButton.interactable = false;
+        foreach (var qb in questionBoxes.Select(q => q.GetComponent<QuestionBox>()))
+        {
+            if (qb.currentLineRect == null) continue;
+
+            var img = qb.currentLineRect.GetComponent<Image>();
+            bool isCorrect = _currentPairs.TryGetValue(qb.questionText, out string correctAns)
+                             && correctAns == qb.matchedAnswerText;
+
+            img.color = isCorrect ? Color.green : Color.red;
+        }
+
+        yield return new WaitForSeconds(3f);
+        SetupNextRound();
+        nextRoundButton.interactable = true;
     }
 }
