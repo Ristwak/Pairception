@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
                 if (!exitPanel.activeSelf)
                 {
                     exitPanel.SetActive(true);
+                    gamePanel.SetActive(false);
                     comingSoonPanel.SetActive(false);
                 }
             }
@@ -46,7 +47,7 @@ public class GameManager : MonoBehaviour
     {
         exitPanel.SetActive(false);
         if(isComingSoonActive)
-            comingSoonPanel.SetActive(true);
+            SceneManager.LoadScene("MenuScene");
         else
             comingSoonPanel.SetActive(false);
         Time.timeScale = 1f; // Resume game if exit panel is closed

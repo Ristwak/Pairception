@@ -111,7 +111,18 @@ public class QAMatchGameManager : MonoBehaviour
         foreach (var pair in chosen)
             _allPairs.Remove(pair);
 
-        _currentPairs = chosen.ToDictionary(p => p.question, p => p.answer);
+        _currentPairs = new Dictionary<string, string>();
+        foreach (var pair in chosen)
+        {
+            if (!_currentPairs.ContainsKey(pair.question))
+            {
+                _currentPairs.Add(pair.question, pair.answer);
+            }
+            else
+            {
+                Debug.LogWarning($"Duplicate question detected: {pair.question}");
+            }
+        }
 
         for (int i = 0; i < questionLabels.Length; i++)
         {
